@@ -1,0 +1,11 @@
+﻿  Controladora.cpp
+  Herramientas.cpp
+C:\Users\jgame\OneDrive\Escritorio\DEV\C++ DEVELOPER\Proyectos\Sokoban\Sokoban-project-Ignacio-Gabriel-and-Joseph-master\Sokoban project Ignacio, Gabriel and Joseph\Herramientas.cpp(30,6): warning C4101: 'caso': variable local sin referencia
+C:\Users\jgame\OneDrive\Escritorio\DEV\C++ DEVELOPER\Proyectos\Sokoban\Sokoban-project-Ignacio-Gabriel-and-Joseph-master\Sokoban project Ignacio, Gabriel and Joseph\Herramientas.cpp(29,7): warning C4101: 'caracter': variable local sin referencia
+  Interfaz.cpp
+  Nodo.cpp
+  Source.cpp
+  Mapa.cpp
+  Generando código...
+C:\Users\jgame\OneDrive\Escritorio\DEV\C++ DEVELOPER\Proyectos\Sokoban\Sokoban-project-Ignacio-Gabriel-and-Joseph-master\Sokoban project Ignacio, Gabriel and Joseph\Interfaz.cpp(85): warning C4715: 'Interfaz::cargarNivel': no todas las rutas de acceso de control devuelven un valor
+  Sokoban project Ignacio, Gabriel and Joseph.vcxproj -> C:\Users\jgame\OneDrive\Escritorio\DEV\C++ DEVELOPER\Proyectos\Sokoban\Sokoban-project-Ignacio-Gabriel-and-Joseph-master\x64\Debug\Sokoban project Ignacio, Gabriel and Joseph.exe
